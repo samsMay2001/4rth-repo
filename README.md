@@ -1,2 +1,2 @@
 # cmd-script
-this repository contains file which contains a cmd script
+this repository contains a file which contains a cmd script
